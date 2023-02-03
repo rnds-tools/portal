@@ -1,2 +1,4 @@
 # userdoc
-Documentação do usuários das ferramentas do ADR
+
+Documentação de usuários das ferramentas do Ambiente de Desenvolvimento da RNDS.
+
