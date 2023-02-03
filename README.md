@@ -2,7 +2,7 @@
 
 Documentação de usuários das ferramentas do Ambiente de Desenvolvimento da RNDS.
 
-# Inspiração para a documentação dos usuários
+# Inspiração para o design da documentação dos usuários
 
 - Para a primeira página https://components.bulma-css.com
 - Enquanto em https://github.com/hubtype/botonic/tree/master/docs é mostrado como usar esta primeira página e ter a sequência "convencional" (https://botonic.io)
