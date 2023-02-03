@@ -1,10 +1,6 @@
-# Portal de documentação do ambiente (mock-rnds)
+# Documentação de usuários
 
-### Disponibilidade provisória
-
-- https://mock-rnds.vercel.app/
-
-### Operações básicas
+## Operações básicas
 
 ```
 $ npm install
@@ -12,6 +8,6 @@ $ npm run start
 $ npm run build
 ```
 
-## Credencial apenas para evitar "curiosos"
+## Publicação via Github Pages
 
-- "rnds/devenv"
+- `npm run docusaurus deploy`
