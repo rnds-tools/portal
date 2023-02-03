@@ -1,0 +1,8 @@
+{
+  "label": "rnds (GUI)",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Gerenciando o ambiente e executando operações via interface gráfica"
+  }
+}
