@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
@@ -27,7 +27,7 @@ function HomepageHeader() {
   );
 }
 
-const Secure = () => {
+export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
@@ -40,54 +40,6 @@ const Secure = () => {
       </main>
     </Layout>
   );
-};
-
-const fake = (user, password) => user === "rnds" && password === "devenv";
-
-export default function Home() {
-  const [user, setUser] = useState(false);
-  console.log(user);
-  if (user) {
-    return <Secure />;
-  } else {
-    return (
-      <div>
-        <label htmlFor="uname">
-          <b>Username</b>
-        </label>
-        <input
-          id="usr"
-          type="text"
-          placeholder="Enter Username"
-          name="uname"
-          required
-        />
-
-        <label htmlFor="psw">
-          <b>Password</b>
-        </label>
-        <input
-          id="pass"
-          type="password"
-          placeholder="Enter Password"
-          name="psw"
-          required
-        />
-
-        <button
-          onClick={() => {
-            const user = document.getElementById("usr").value;
-            const pass = document.getElementById("pass").value;
-            if (fake(user, pass)) setUser(true);
-            else setUser(false);
-          }}
-          type="submit"
-        >
-          Login
-        </button>
-      </div>
-    );
-  }
 }
 
 console.log("pages/index.js");
