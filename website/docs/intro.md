@@ -27,3 +27,8 @@ Ambiente de Desenvolvimento da RNDS
 rnds (versão x.y.z
 Java utilizado (versão 11.2.3)
 ```
+
+### Inspiração
+
+O `rnds` se inspira no **dotnet** (CLI) conforme
+[aqui](https://learn.microsoft.com/en-us/dotnet/core/tools/)
