@@ -5,8 +5,8 @@ title: Introdução
 
 # Introdução
 
-Vamos colocar o Ambiente de Desenvolvimento, aplicativo **rnds**, em execução
-(_menos de 3 minutos_).
+Vamos colocar o Ambiente de Desenvolvimento, via aplicativo de linha de comandos **rnds**,
+em execução (_menos de 3 minutos_).
 
 ## O quê você precisa?
 
