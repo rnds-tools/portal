@@ -1,6 +1,8 @@
 # userdoc
 
-Documentação de usuários das ferramentas do Ambiente de Desenvolvimento da RNDS.
+Documentação de usuários das ferramentas do Ambiente de Desenvolvimento da RNDS. Esta documentação encontra-se
+disponível no endereço https://rnds-tools.github.io/userdoc e
+deverá ser disponibilizada em https://rnds.software.
 
 # Inspiração para o design da documentação dos usuários
 
@@ -9,5 +11,3 @@ Documentação de usuários das ferramentas do Ambiente de Desenvolvimento da RN
 - [beta.reactjs.org](https://beta.reactjs.org/)
 - https://repeater.js.org
 - Bulma templates https://bulmatemplates.github.io/bulma-templates/
-
-
