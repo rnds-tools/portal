@@ -1,8 +1,10 @@
-## 3 Portal
+## 3 Portal do Ambiente de Desenvolvimento
 
-Portal do Ambiente de Desenvolvimento. O público-alvo tem contato com o AD por este portal. Este portal esclarece o objetivo e informações sobre o AD.
+Por meio deste portal deve ser possível:
 
-A documentação do usuário ([userdoc](https://github.com/rnds-tools/userdoc)) deve ser disponibilizada por este portal.
+- conhecer os recursos oferecidos pelo Ambiente
+- obter as ferramentas disponibilizadas
+- consultar a documentação do usuário ([userdoc](https://github.com/rnds-tools/userdoc))
 
 ## Artefatos
 
