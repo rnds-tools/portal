@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Ambiente de Desenvolvimento da RNDS",
+  title: "Ambiente de Desenvolvimento FHIR",
   tagline: "Um conjunto completo de ferramentas para o integrador",
   url: "https://rnds-tools.github.io/",
   baseUrl: "/userdoc/",

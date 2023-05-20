@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Funções
 ---
 
-Acesso às funções oferecidas pelo Ambiente de Desenvolvimento.
+Acesso às funções oferecidas pelo Ambiente de Desenvolvimento FHIR.
 Estão documentadas em outras partes as funções pertinentes a [terminologias](ts)
 a aquelas de [gestão](gestao) do ambiente.
 
@@ -24,7 +24,7 @@ registros devem ser aguardados indefinidamente e exibidos, quando disponíveis,
 conforme abaixo.
 
 ```
-rnds [--host=<server>] log [--watch]
+adf [--host=<server>] log [--watch]
 ```
 
 Onde **<server\>** identifica o servidor e porta onde se encontra em

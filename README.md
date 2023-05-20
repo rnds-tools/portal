@@ -1,6 +1,6 @@
 # userdoc
 
-Documentação de usuários das ferramentas do Ambiente de Desenvolvimento da RNDS. Esta documentação encontra-se
+Documentação de usuários das ferramentas do Ambiente de Desenvolvimento FHIR. Esta documentação encontra-se
 disponível no endereço https://rnds-tools.github.io/userdoc e
 deverá ser disponibilizada em https://rnds.software.
 
