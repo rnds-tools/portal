@@ -1,8 +1,9 @@
-# userdoc
+# portal
 
-Documentação de usuários das ferramentas do Ambiente de Desenvolvimento FHIR. Esta documentação encontra-se
-disponível no endereço https://rnds-tools.github.io/userdoc e
-deverá ser disponibilizada em https://rnds.software.
+Implementação da página principal do Ambiente de Desenvolvimento.
+Inclui links para downloads, versões e documentação pertinente.
+
+Disponível em https://rnds-tools.github.io/userdoc.
 
 # Inspiração
 
