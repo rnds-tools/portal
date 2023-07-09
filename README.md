@@ -3,7 +3,7 @@
 Implementação da página principal do Ambiente de Desenvolvimento.
 Inclui links para downloads, versões e documentação pertinente.
 
-Disponível em https://rnds-tools.github.io/portal.
+Disponível em https://rnds-tools.github.io/portal/.
 
 # Inspiração
 
