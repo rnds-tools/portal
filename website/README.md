@@ -1,6 +1,4 @@
-# Documentação de usuários
-
-## Operações básicas
+## Desenvolvimento
 
 ```
 $ npm install

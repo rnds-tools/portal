@@ -9,7 +9,7 @@ const config = {
   title: "Ambiente de Desenvolvimento FHIR",
   tagline: "Um conjunto completo de ferramentas para o integrador",
   url: "https://rnds-tools.github.io/",
-  baseUrl: "/userdoc/",
+  baseUrl: "/portal/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "rnds-tools", // Usually your GitHub org/user name.
-  projectName: "userdoc", // Usually your repo name.
+  projectName: "portal", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
