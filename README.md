@@ -4,7 +4,7 @@ Documentação de usuários das ferramentas do Ambiente de Desenvolvimento FHIR.
 disponível no endereço https://rnds-tools.github.io/userdoc e
 deverá ser disponibilizada em https://rnds.software.
 
-# Inspiração para o design da documentação dos usuários
+# Inspiração
 
 - Para a primeira página https://components.bulma-css.com
 - Enquanto em https://github.com/hubtype/botonic/tree/master/docs é mostrado como usar esta primeira página e ter a sequência "convencional" (https://botonic.io)
