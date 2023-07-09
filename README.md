@@ -11,3 +11,15 @@ deverá ser disponibilizada em https://rnds.software.
 - [beta.reactjs.org](https://beta.reactjs.org/)
 - https://repeater.js.org
 - Bulma templates https://bulmatemplates.github.io/bulma-templates/
+
+- ## 3 Portal do Ambiente de Desenvolvimento
+
+Por meio deste portal deve ser possível:
+
+- conhecer os recursos oferecidos pelo Ambiente
+- obter as ferramentas disponibilizadas
+- consultar a documentação do usuário ([userdoc](https://github.com/rnds-tools/userdoc))
+
+## Artefatos
+
+- Proposta de _design_
