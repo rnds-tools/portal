@@ -14,6 +14,18 @@ https://rnds.software/get conforme o seu sistema operacional (Linux, Windows ou 
 
 :::
 
+### Diretório de trabalho
+
+Para suas operações o **adf** consulta a variável de ambiente 
+**ADF_HOME**. Caso não esteja definida, será empregado o
+diretório **.adf** no diretório **$HOME** (Linux) ou **%userprofile%** (Windows) do usuário
+corrente. Adicionalmente, o diretório a ser empregado pode ser definido pelo _flag_
+abaixo, o que terá a precedência sobre as demais opções.
+
+```
+adf [comando] [flag] --work=<dir>
+```
+
 ### Instalar
 
 O comando abaixo obtém a versão mais recente, caso já não esteja disponível.
