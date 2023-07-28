@@ -81,10 +81,19 @@ Informações sobre as opções podem ser obtidas com o comando
 adf help
 ```
 
-Para mais detalhes específicos de um comando use
+Ou ainda 
 
 ```
-adf help [<command>]
+adf -h
+adf --help
+```
+
+Para obter detalhes específicos de um comando use
+
+```
+adf <command> -h
+adf <command> --help
+
 ```
 
 Por exemplo, para detalhar o comando que lista as versões instaladas use `adf help list`.
