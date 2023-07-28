@@ -119,21 +119,26 @@ O comando abaixo, por outro lado, interrompe a execução do ambiente:
 adf stop
 ```
 
-Enquanto aquele abaixo interrompe uma instância específica
+Enquanto aquele abaixo interrompe uma instância específica. Observe que 
+se apenas uma instância de uma versão está em execução, então
+apenas a versão é suficiente. Caso contrário, será necessário 
+indicar o valor para o _flag_ **ps** ou **port**. Em tempo,
+qualquer um destes dois últimos é suficiente para interromper
+a instância desejada.
 
 ```
-adf start [<version>] [--run <number>] [--port <number>]
+adf stop [<version>] [--ps <number>] [--port <number>]
 ```
 
 O parâmetro **number** indica o número único atribuído a uma instância específica
-e pode ser obtido com o comando `adf run`.
+e pode ser obtido com o comando `adf ps`.
 
 ### Instâncias em execuçãao
 
 Lista as instâncias do ambiente em execução
 
 ```
-adf run
+adf ps
 ```
 
 ### Reiniciar o ambiente
