@@ -202,3 +202,12 @@ adf add --dir <directory>
 
 - `adf remove <profile>`
   (remove o profile da lista daqueles que serão considerados pelo servidor para validação e outras atividades)
+
+### Formato de saída
+
+Pode-se definir que a saída produzida pelo **adf** seja em JSON, em vez da saída 
+padrão formatada para legibilidade do usuário. Isso pode ser feito como abaixo.
+
+```
+add [comando] [flags] --json
+```
