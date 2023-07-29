@@ -16,12 +16,11 @@ https://rnds.software/get conforme o seu sistema operacional (Linux, Windows ou 
 
 ### Diretório de trabalho
 
-Para suas operações o **adf** faz uso de um diretório de trabalho definido
-na variável de ambiente 
-**ADF_HOME**, se definida. Caso contrário será empregado o
-diretório **.adf** no diretório raiz do usuário, em geral, **$HOME** (Linux) ou **%userprofile%** (Windows). 
-Quando fornecido a opção **--work=<dir>**, o diretório indicado terá precedência
-sobre a variável de ambiente, mesmo que definida.
+Defina a variável de ambiente 
+**ADF_HOME**. 
+
+Caso não definida será empregado o
+diretório **.adf** no diretório raiz do usuário, em geral, **$HOME** (Linux) ou **%userprofile%** (Windows). Alternativamente o diretório de trabalho pode ser indicado pela opção **--work=&lt;dir&gt;**. Esta última opção tem o inconveniente de ter que ser fornecido a cada comando.
 
 ```
 adf [comando] [flag] --work=<dir>
@@ -109,7 +108,7 @@ adf <command> --help
 
 ```
 
-Por exemplo, para detalhar o comando que lista as versões instaladas use `adf help list`.
+Por exemplo, para detalhar o comando que lista as versões instaladas use `adf list -h` ou `adf list --help`.
 
 ### Iniciar/parar o ambiente
 
