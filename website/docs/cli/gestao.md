@@ -3,9 +3,8 @@ sidebar_position: 1
 title: Gestão do Ambiente
 ---
 
-O aplicativo **adf** é responsável pelo gerenciamento de instâncias do Ambiente
-de Desenvolvimento FHIR e também pode ser empregado para submeter requisições,
-dentre outras funções.
+O aplicativo **adf** é responsável pela gestão do Ambiente
+de Desenvolvimento FHIR.
 
 :::note Instalação
 
@@ -16,14 +15,12 @@ https://rnds.software/get conforme o seu sistema operacional (Linux, Windows ou 
 
 ### Diretório de trabalho
 
-Defina a variável de ambiente 
-**ADF_HOME**. 
+O diretório **.adf** contido em **$HOME** (Linux) ou **%userprofile%** (Windows) é o diretório de trabalho padrão do **adf**. Este é o diretório empregado se a variável de ambiente **ADF_HOME** não indicar outro diretório. 
 
-Caso não definida será empregado o
-diretório **.adf** no diretório raiz do usuário, em geral, **$HOME** (Linux) ou **%userprofile%** (Windows). Alternativamente o diretório de trabalho pode ser indicado pela opção **--work=&lt;dir&gt;**. Esta última opção tem o inconveniente de ter que ser fornecido a cada comando.
+A execução do comando abaixo fornece várias informações, inclusive o diretório empregado. 
 
 ```
-adf [comando] [flag] --work=<dir>
+adf
 ```
 
 ### Instalar
