@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportal=self.webpackChunkportal||[]).push([[8795],{7604:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/portal/blog/tags/hello","allTagsPath":"/portal/blog/tags","count":2}')}}]);
