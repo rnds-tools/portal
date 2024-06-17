@@ -64,7 +64,7 @@ adf uninstall 1.0.0
 
 Exibe a lista de versões disponíveis localmente. A versão corrente,
 empregada por padrão, caso nenhuma outra seja especificamente indicada, é
-fornecida entre asteriscos, por exemplo, \*1.1.0\*.
+fornecida entre asteriscos, por exemplo, **1.1.0**.
 
 ```
 adf list
@@ -168,7 +168,7 @@ comando correspondente deve ser
 adf restart [--run <number>] [--port <number>]
 ```
 
-Onde **<number\>** indica o número da instância conforme fornecido por `adf run` ou a porta empregada pela instância a ser reiniciada.
+Onde **<number/>** indica o número da instância conforme fornecido por `adf run` ou a porta empregada pela instância a ser reiniciada.
 
 ### Registros de log
 

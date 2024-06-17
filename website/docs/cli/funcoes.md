@@ -27,7 +27,7 @@ conforme abaixo.
 adf [--host=<server>] log [--watch]
 ```
 
-Onde **<server\>** identifica o servidor e porta onde se encontra em
+Onde **<server/>** identifica o servidor e porta onde se encontra em
 execução o Ambiente de Desenvolvimento.
 
 Se a opção **--watch** é fornecida, então registros de log serão

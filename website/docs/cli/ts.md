@@ -99,7 +99,7 @@ respectivas versões.
 adf [--host=<server>] ts
 ```
 
-Onde **<server\>** identifica o servidor e porta onde se encontra disponível o
+Onde **<server/>** identifica o servidor e porta onde se encontra disponível o
 Serviço de Terminologias (ST).
 
 ### Consulta
